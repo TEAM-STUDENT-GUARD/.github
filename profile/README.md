@@ -8,7 +8,7 @@
 | 이름 | 소개 | GitHub |
 | --- | --- | --- |
 | 최승훈 | 의료 AI를 연구하는 컴퓨터공학 석사과정생 | [@shchooii](https://github.com/shchooii) |
-| 이준수 | 컴퓨터공학 전공 | [@junsulee119](https://github.com/junsulee119) |
+| 이준수 | 컴퓨터공학 전공, LLM 하네스 개인연구중 | [@junsulee119](https://github.com/junsulee119) |
 
 ## Our Story
 
