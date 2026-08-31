@@ -12,7 +12,7 @@
 
 ## Our Story
 
-<img width="700" height="508" alt="hi (2)" src="https://github.com/user-attachments/assets/ae9ac0c1-bb1a-4095-8a32-7ebbde359de9" />
+<img width="600" height="435" alt="hi (3)" src="https://github.com/user-attachments/assets/71e2b725-5b15-4517-a3f8-bdf9f67caf91" />
 
 저희는 소프트웨어공학 수업에서 팀 프로젝트를 함께 진행하며 친해졌습니다. 프로젝트를 준비하는 과정에서 학교생활에 대한 이야기를 자주 나눴고, 과제 제출 기한이나 분량, 형식 같은 조건을 놓쳐 다시 확인하고 수정했던 경험도 공유했습니다. 이러한 불편을 조금이라도 줄여보자는 생각으로 대학생을 위한 서비스를 함께 만들어 보기로 했습니다.
 
