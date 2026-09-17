@@ -26,5 +26,7 @@
 
 | 항목 | 링크 |
 | --- | --- |
-| PlayMCP | [Report Guard 상세 페이지](https://playmcp.kakao.com/mcp/79903206301342069) |
+| PlayMCP | [Report Guard 상세 페이지](https://playmcp.kakao.com/mcp/64695973988854126)|
 | GitHub | [Report Guard 레포지토리](https://github.com/TEAM-STUDENT-GUARD/uni_report_guard_mcp_public) |
+
+
